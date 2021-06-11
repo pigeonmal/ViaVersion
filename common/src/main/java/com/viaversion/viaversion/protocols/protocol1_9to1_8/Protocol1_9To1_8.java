@@ -17,8 +17,8 @@
  */
 package com.viaversion.viaversion.protocols.protocol1_9to1_8;
 
-import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
+import com.viaversion.viaversion.libs.gson.JsonElement;
+import com.viaversion.viaversion.libs.gson.JsonObject;
 import com.viaversion.viaversion.api.Via;
 import com.viaversion.viaversion.api.connection.UserConnection;
 import com.viaversion.viaversion.api.minecraft.item.Item;
